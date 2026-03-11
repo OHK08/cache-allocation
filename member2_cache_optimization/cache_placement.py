@@ -5,7 +5,7 @@ Minimize weighted sum of latency, bandwidth, and energy.
 """
 
 import numpy as np
-from knapsack import knapsack_01
+from .knapsack import knapsack_01
 
 # Adjustable weights
 ALPHA = 0.5   # latency weight

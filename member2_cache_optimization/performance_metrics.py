@@ -2,7 +2,6 @@
 Calculate latency, bandwidth, and energy performance
 """
 
-
 def calculate_metrics(requests, cache_contents, content_dict):
 
     total_latency = 0

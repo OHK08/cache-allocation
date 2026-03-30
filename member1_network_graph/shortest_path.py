@@ -1,7 +1,7 @@
 # shortest_path.py
 
 import heapq
-from graph_model import build_graph
+from member1_network_graph.graph_model import build_graph
 
 def dijkstra(start_node):
 

@@ -1,6 +1,6 @@
 # graph_model.py
 
-import config
+import member1_network_graph.config as config
 
 # ===============================
 # Node Definitions
